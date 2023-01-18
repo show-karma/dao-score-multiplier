@@ -25,7 +25,7 @@
     "90d": {},
     "180d": {
       "offChainVotesPct": 0.7,
-      "proposalsInitiated": 3,
+      "proposalsInitiated": 8,
       "proposalsDiscussed": 0.7,
       "forumTopicCount-proposalsInitiated": 1.1,
       "forumPostCount-proposalsDiscussed": 0.6
